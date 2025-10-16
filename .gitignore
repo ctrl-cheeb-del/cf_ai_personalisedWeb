@@ -1,0 +1,11 @@
+.env
+env
+/node_modules
+node_modules
+env
+/env
+/.env
+.alchemy
+/.alchemy
+alchemy
+bun.lock
