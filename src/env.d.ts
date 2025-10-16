@@ -1,8 +1,6 @@
-/// <reference types="./env.d.ts" />
+import type { bunsite } from "../alchemy.run.ts";
 
-import type { website } from "../alchemy.run.ts";
-
-export type CloudflareEnv = typeof website.Env;
+export type CloudflareEnv = typeof bunsite.Env;
 
 declare module "cloudflare:workers" {
   namespace Cloudflare {

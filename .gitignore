@@ -9,3 +9,7 @@ env
 /.alchemy
 alchemy
 bun.lock
+dist
+dist/client
+./dist
+./dist/client

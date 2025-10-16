@@ -4,16 +4,16 @@ declare module "*.svg" {
     /**
      * A path to the SVG file
      */
-    const path: `${string}.svg`;
-    export = path;
+    const src: string;
+    export default src;
 }
 
 declare module "*.png" {
     /**
-     * A path to the SVG file
+     * A path to the PNG file
      */
-    const path: `${string}.png`;
-    export = path;
+    const src: string;
+    export default src;
 }
   
 declare module "*.module.css" {
