@@ -6,6 +6,8 @@ A proof of concept demonstrating AI-powered, per-user website customization on c
 
 Visit the deployed instance: [here!](https://cloudflare-bun-spa-website-art.theredxer.workers.dev) and start customising your own version of the site via the personalised input box.
 
+Or check out the demo tweet [here](https://x.com/artfreebrey/status/1979194182976573656)
+
 ## 💡 Inspiration
 
 This project was inspired by [@threepointone's tweet](https://x.com/threepointone/status/1977822605748097241) about the future of personalized web experiences:
